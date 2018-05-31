@@ -4,5 +4,35 @@ I am testing them with the Nextion Enhanced (NX40244K032_11) 3.2" Screen
 I believe they also work for the Non_Enhanced screens. (Confirmation welcome)
 If anyone would like to provide feedback please contact me at wa6hxg@gmail.com
 Feedback is appreciated.
+
+Revision History: 1.0 (Original)
+
+1.1 Fixed Spacing on Antenna Signal Bars.
+
+1.2 Added RSSI and BER labels to DStar Page.
+
+1.3 Added Last Heard Talk Group to right of Last Heard Station.
+
+1.4 Fixed a typo.
+
+File Explanation...
+
+HMI Files are for the Nextion Editor
+
+TFT Files are for direct upload to the Nextion screen
+
+Green Color Version for Duplex 3.2" Green1_Duplex_32in_LHnLHTG_1.4
+
+Blue Color Version for Duplex 3.2" Blue1_Duplex_32in_LHnLHTG_1.4
+
+Blue Color Version for Simplex 3.2" Blue1_Simplex_32in_LHnLHTG_1.4
+
+The folowing files are identical except the signal bars are green around the antenna tower
+
+Blue Color Version for Duplex 3.2" Blue1_Duplex_32in_LHnLHT_GB_1.4
+
+Blue Color Version for Simplex 3.2" Blue1_Simplex_32in_LHnLHTG_GB_1.4
+
+
 Enjoy!
-72
+73
