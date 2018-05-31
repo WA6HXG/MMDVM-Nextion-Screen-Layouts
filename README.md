@@ -27,7 +27,7 @@ File explanation...
 The HMI Files directory include HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. (instructions for that process are in the Instructions.md file).  
 The TFT Files directory include TFT files for direct upload to the Nextion screen. (instructions for that process are in the Instructions.md file).  
 
-File details:
+File details:  
 Green Color Version for Duplex 3.2" Green1_Duplex_32in_LHnLHTG_1.X  
 Blue Color Version for Duplex 3.2" Blue1_Duplex_32in_LHnLHTG_1.X  
 Blue Color Version for Simplex 3.2" Blue1_Simplex_32in_LHnLHTG_1.X  
