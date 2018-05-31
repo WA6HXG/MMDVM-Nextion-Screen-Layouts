@@ -35,4 +35,4 @@ Remember, on the DMR page (and maybe others) the prefix: “N” means the call 
 The HMI Files directory includes HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. The HMI files may be loaded into the Nextion Editor and adjusted to your liking as described above.  
  
 The TFT Files directory include TFT files for direct upload to the Nextion screen also described above.  
-File versions, differences, and details are outlined in the README.md  
+File versions, differences, and details are outlined in the README.md   
