@@ -2,11 +2,14 @@
 Here is a collection of screen layouts I have put together for Nextion Screens.  
 Both Duplex and Simplex Hot Spot layouts are available.  
 In the main github page for this repository you will find a file called "Instructions.md" 
-This file has instructions on how to do some basic editing to Nextion HMI files as well as how to get the HMI files compiled and sent to the Nextion screen (basically all you need to know to get your screen going.
+This file has instructions on how to do some basic editing to Nextion HMI files as well as how to get the HMI files compiled and sent to the Nextion screen (basically all you need to know to get your screen going).
 
 The electrical connections from the Nextion screen to the Hat, whatever type it may be are simple.  
 Looking at the front fo the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX.  
-The TX on the screen will go to RX on the Hat and the RX on the screen will go to the TX on the Hat, if it does not work check that you did not reverse the two middle wires. You may use headers if you have room or clip connectors off and solder straight to the Hat. Whichever you prefer.  
+Look for the Nextion wiring section on the Hat (usually labeled).  
+The top wire from the screen goes to 5v.  
+The lower wire on the screen will go to ground. TX on the screen will go to RX, and the RX on the screen will go to the TX on the Hat, if it does not work check that you did not reverse the two middle wires.   
+You may use headers if you have room or clip connectors off, strip the wire back about 1.5mm tin them and solder them straight to the Hat. If they protrude too long just clip off excess. Whichever you prefer.   
 
 I am testing these layout files with the Nextion Enhanced (NX40244K032_11) 3.2" Screen.  
 I believe they also work for the Non_Enhanced screens. --==(Confirmation welcome)==--  
