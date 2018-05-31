@@ -6,8 +6,9 @@ If anyone would like to provide feedback please contact me at wa6hxg@gmail.com
 I will be working on 2.4" screens next...Feedback is appreciated. 
 
 
-Revision History: 1.0 (Original)
+Revision History: 
 
+1.0 (Original)
 1.1 Fixed Spacing on Antenna Signal Bars.
 1.2 Added RSSI and BER labels to DStar Page.
 1.3 Added Last Heard Talk Group to right of Last Heard Station.
