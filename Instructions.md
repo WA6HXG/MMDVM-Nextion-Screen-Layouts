@@ -32,4 +32,7 @@ If you want the page for a mode to stay on (and be in that mode) longer, set “
 
 Remember, on the DMR page (and maybe others) the prefix: “N” means the call is from the Network and the prefix “R” is from local RF.  RSSI and BER will Show when You transmit to the Hot Spot, it does not come from the Network.  
 
-Here are the links to the "TFT" File and the "HMI" file. The "TFT" can be put on a blank Micro SD and loaded right onto the display if you do not require changes.  The HMI can be loaded into Nextion Editor and adjusted to your liking as described above.  
+The HMI Files directory includes HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. The HMI files may be loaded into the Nextion Editor and adjusted to your liking as described above.  
+ 
+The TFT Files directory include TFT files for direct upload to the Nextion screen also described above.  
+Differences between the files is explained in the README.md  
