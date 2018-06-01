@@ -30,7 +30,7 @@ After that your Nextion display will be completely setup!!!
 
 If you want the page for a mode to stay on (and be in that mode) longer, set “rf hold “ and “net hold” for that mode to a higher value.  This will cause the Hotspot to hold on that mode longer before going to standby screen or switching modes to another.  
 
-Remember, on the DMR page (and maybe others) the prefix: “N” means the call is from the Network and the prefix “R” is from local RF.  RSSI and BER will Show when You transmit to the Hot Spot, it does not come from the Network.  
+Remember, on the DMR page (and maybe others) the prefix: “N” means the call is from the Network and the prefix “R” is from local RF.  RSSI and BER will show when you transmit to the Hot Spot, it does not come from the Network.  
 
 The HMI Files directory includes HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. The HMI files may be loaded into the Nextion Editor and adjusted to your liking as described above.  
  
