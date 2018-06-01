@@ -25,11 +25,11 @@ Revision History:
 1.3 Added Last Heard Talk Group to right of Last Heard Station.  
 1.4 Fixed a typo.  
 1.5 Adjusted "t0bis" and "t2bis" text field Y position, was covering bevel in background.  
-1.6 Fixes some errors on the NXDN page edited background graphics.  
+1.6 Fixes some errors on the NXDN page and edited background graphics.  
 
 File explanation...  
 
-The HMI Files directory include HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. (instructions   for that process are in the Instructions.md file).  
+The HMI Files directory include HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. (instructions   for that process are here on my Github page in the Instructions.md file).  
 The TFT Files directory include TFT files for direct upload to the Nextion screen. (instructions for that process are in the   Instructions.md file).  
 
 File details:  
