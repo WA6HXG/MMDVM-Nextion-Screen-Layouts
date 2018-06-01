@@ -35,8 +35,7 @@ The TFT Files directory include TFT files for direct upload to the Nextion scree
 
 File details:  
   
-For 3.2" Screens    
-Green Color Version for Duplex 3.2" = Green1_Duplex_32in_LHnLHTG_1.X  
+For 3.2" Screens  
 Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHTG_1.X  
 Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_1.X  
   
@@ -44,10 +43,10 @@ For 3.5" Screens
 Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_1.X  
 Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_1.X  
   
-The folowing files are identical to the other "Blue Color" files except the signal bars are green around the antenna tower.  
-Notated with the Suffix (GB)  
+The folowing files are identical to the other "Blue Color" files except the signal bars are green around the antenna tower   instead of white, Notated with the Suffix (GB)  
   
 For 3.2" Screens  
+Green Color Version for Duplex 3.2" = Green1_Duplex_32in_LHnLHTG_GB_1.X  
 Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHT_GB_1.X  
 Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_GB_1.X  
   
