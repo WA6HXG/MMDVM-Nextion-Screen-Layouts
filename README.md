@@ -27,6 +27,7 @@ Revision History:
 1.4 Fixed a typo.  
 1.5 Adjusted "t0bis" and "t2bis" text field Y position, was covering bevel in background.  
 1.6 Fixes some errors on the NXDN page, edited background graphics, and optimized code.
+1.7 Updated numerous text boxes, the bottom of letters "Q" and "g" had a few pixels being clipped off.   
 
 File explanation...  
 
