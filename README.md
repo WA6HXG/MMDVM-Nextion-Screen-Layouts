@@ -26,7 +26,7 @@ Revision History:
 1.3 Added Last Heard Talk Group to right of Last Heard Station.  
 1.4 Fixed a typo.  
 1.5 Adjusted "t0bis" and "t2bis" text field Y position, was covering bevel in background.  
-1.6 Fixes some errors on the NXDN page and edited background graphics.  
+1.6 Fixes some errors on the NXDN page, edited background graphics, and optimized code.
 
 File explanation...  
 
