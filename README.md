@@ -5,7 +5,7 @@ In the main github page for this repository you will find a file called "Instruc
 This file has instructions on how to do some basic editing to Nextion HMI files as well as how to get the HMI files compiled and sent to the Nextion screen (basically all you need to know to get your screen going).  
 
 The electrical connections from the Nextion screen to the Hat, whatever type it may be are simple.  
-Looking at the front fo the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX.  
+Looking at the front of the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX.  
 Look for the Nextion wiring section on the Hat (usually labeled).  
 The top wire from the screen goes to 5v.  
 The lower wire on the screen will go to ground.  
