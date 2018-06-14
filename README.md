@@ -14,7 +14,8 @@ You may use headers if you have room or clip connectors off, strip the wire back
 
 I am testing these layout files with the Nextion Enhanced (NX40244K032_11) 3.2" Screen. 
 Files are also available for 3.5" Nextion Screens and 2.4" Files are forthcoming.
-I believe these files will also work for the Non_Enhanced screens. --==(Confirmation welcome)==--  
+I believe these files will also work for the Non_Enhanced screens. 
+--==(Confirmation welcome)==--  
 If anyone would like to provide feedback please contact me at wa6hxg@gmail.com  
 I will be working on 2.4" screens next...Feedback is appreciated.  
 
