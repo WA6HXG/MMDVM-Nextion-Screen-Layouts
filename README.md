@@ -5,7 +5,7 @@ In the main github page for this repository you will find a file called "Instruc
 This file has instructions on how to do some basic editing to Nextion HMI files as well as how to get the HMI files compiled and sent to the Nextion screen (basically all you need to know to get your screen going).  
 
 The electrical connections from the Nextion screen to the Hat, whatever type it may be are simple.  
-Looking at the front fo the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX.  
+Looking at the front of the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX.  
 Look for the Nextion wiring section on the Hat (usually labeled).  
 The top wire from the screen goes to 5v.  
 The lower wire on the screen will go to ground.  
@@ -14,7 +14,8 @@ You may use headers if you have room or clip connectors off, strip the wire back
 
 I am testing these layout files with the Nextion Enhanced (NX40244K032_11) 3.2" Screen. 
 Files are also available for 3.5" Nextion Screens and 2.4" Files are forthcoming.
-I believe these files will also work for the Non_Enhanced screens. --==(Confirmation welcome)==--  
+I believe these files will also work for the Non_Enhanced screens.   
+--==(Confirmation welcome)==--  
 If anyone would like to provide feedback please contact me at wa6hxg@gmail.com  
 I will be working on 2.4" screens next...Feedback is appreciated.  
 
@@ -26,7 +27,8 @@ Revision History:
 1.3 Added Last Heard Talk Group to right of Last Heard Station.  
 1.4 Fixed a typo.  
 1.5 Adjusted "t0bis" and "t2bis" text field Y position, was covering bevel in background.  
-1.6 Fixes some errors on the NXDN page, edited background graphics, and optimized code.
+1.6 Fixes some errors on the NXDN page, edited background graphics, and optimized code.  
+1.7 Updated numerous text boxes, the bottom of letters "Q" and "g" had a few pixels being clipped off.   
 
 File explanation...  
 
