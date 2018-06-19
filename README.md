@@ -31,26 +31,26 @@ The TFT Files directory include TFT files for direct upload to the Nextion scree
 File details:    
    
 For 2.4" Screens   
-Green Color Version for Duplex 2.4" = Green1_Duplex_24in_LHnLHTG_GB_1.X  
-Green Color Version for Simplex 2.4" = Green1_Simplex_24in_LHnLHTG_GB_1.X  
-Blue Color Version for Duplex 2.4" = Blue1_Duplex_24in_LHnLHT_GB_1.X  
-Blue Color Version for Simplex 2.4" = Blue1_Simplex_24in_LHnLHTG_GB_1.X  
+Green Color Version for Duplex 2.4" = Green1_Duplex_24in_LHnLHTG_GB_X.X  
+Green Color Version for Simplex 2.4" = Green1_Simplex_24in_LHnLHTG_GB_X.X  
+Blue Color Version for Duplex 2.4" = Blue1_Duplex_24in_LHnLHT_GB_X.X  
+Blue Color Version for Simplex 2.4" = Blue1_Simplex_24in_LHnLHTG_GB_X.X  
   
 For 3.2" Screens  
-Green Color Version for Duplex 3.2" = Green1_Duplex_32in_LHnLHTG_GB_1.X   
-Green Color Version for Simplex 3.2" = Green1_Simplex_32in_LHnLHTG_GB_1.X   
-Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHTG_1.X  
-Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_1.X   
-Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHT_GB_1.X   
-Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_GB_1.X   
+Green Color Version for Duplex 3.2" = Green1_Duplex_32in_LHnLHTG_GB_X.X   
+Green Color Version for Simplex 3.2" = Green1_Simplex_32in_LHnLHTG_GB_X.X   
+Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHTG_X.X  
+Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_X.X   
+Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHT_GB_X.X   
+Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_GB_X.X   
   
 For 3.5" Screens  
-Green Color Version for Duplex 3.5" = Green1_Duplex_35in_LHnLHT_GB_1.X   
-Green Color Version for Simplex 3.5" = Green1_Simplex_35in_LHnLHT_GB_1.X   
-Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_1.X   
-Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_1.X     
-Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_GB_1.X   
-Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_GB_1.X   
+Green Color Version for Duplex 3.5" = Green1_Duplex_35in_LHnLHT_GB_X.X   
+Green Color Version for Simplex 3.5" = Green1_Simplex_35in_LHnLHT_GB_X.X   
+Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_X.X   
+Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_X.X     
+Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_GB_X.X   
+Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_GB_X.X   
 
 Enjoy!  
 73  
