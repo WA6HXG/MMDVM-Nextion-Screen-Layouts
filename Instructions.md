@@ -37,20 +37,21 @@ Plug the screen back into the hotspot and reboot it by power cycling it.
    
 Setting up Pi-Star to talk to the Nextion display:     
    
-Navigate to your Pi-star dashboard and on the "Configuration" page in the MMDVM Configuration under MMDVM Display select "Nextion" for the first field and for most hotspots with the screen attached to the hat select Port "Modem" (may be different for some configurations, then for 'Screen Layout" set "ON7LDS 3".  
+Navigate to your Pi-star dashboard and on the "Configuration" page in the MMDVM Configuration under MMDVM Display select "Nextion" for the first field and for most hotspots with the screen attached to the hat select Port "Modem" (may be different for some configurations, then for 'Screen Layout" set "ON7LDS 3". Note: If you are using versions 2.1 or later set "Screen Layout" to "G4KLX".    
 If you don't see that option you need to update your version of Pi-Star.  
 To do that run "Update" on the "Configuration" page, then "Upgrade" on the "Expert" page until the text reads that you version is current.  
 The update process has been made much simpler with no need to use SSH any longer.  
 After that, the option "ON7LDS will be available.  
 That is all for getting the PiStar to communicate with the screen correctly!  
-
+  
 After that your Nextion display will be completely setup!   
-
+  
 If you want the page for a mode to stay on (and be in that mode) longer, set “rf hold “ and “net hold” for that mode to a higher value.  This will cause the Hotspot to hold on that mode longer before going to standby screen or switching modes to another.  
-
+  
 Remember, on the DMR page (and maybe others) the prefix: “N” means the call is from the Network and the prefix “R” is from local RF.  RSSI and BER will show when you transmit to the Hot Spot, it does not come from the Network.  
-
+  
 The HMI Files directory includes HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. The HMI files may be loaded into the Nextion Editor and adjusted to your liking as described above.  
- 
+   
 The TFT Files directory include TFT files for direct upload to the Nextion screen also described above.  
 File versions, differences, and details are outlined in the README.md   
+  
