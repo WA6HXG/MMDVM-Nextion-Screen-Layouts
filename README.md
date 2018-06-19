@@ -18,19 +18,19 @@ Revision History:
 1.5 Adjusted "t0bis" and "t2bis" text field Y position, was covering bevel in background.  
 1.6 Fixes some errors on the NXDN page, edited background graphics, and optimized code.  
 1.7 Updated numerous text boxes, the bottom of letters "Q" and "g" had a few pixels being clipped off.   
-1.8 Changed "Duplex MMDVM Voice Modem" on MMDVM Pages from "Duplex" to "Simplex" for Simplex Layouts.
+1.8 Changed "Duplex MMDVM Voice Modem" on MMDVM Pages from "Duplex" to "Simplex" for Simplex Layouts.  
 1.9 Edited the background image, dimming down the bright white spots to blue to make them less distracting.  
-2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.
-2.2 Added single or dual last heard to other modes, ie,. P25, YSF, NXDN, D-Star.
-
-File explanation...  
-
+2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.  
+2.2 Added single or dual last heard to other modes, ie,. P25, YSF, NXDN, D-Star.  
+  
+File explanation...   
+  
 The HMI Files directory include HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. (instructions   for that process are here on my Github page in the Instructions.md file).  
 The TFT Files directory include TFT files for direct upload to the Nextion screen. (instructions for that process are in the   Instructions.md file). Files with the suffix GB have green signal bars around the antenna icon instead of white.  
- 
-File details:  
- 
-For 2.4" Screens  
+   
+File details:    
+   
+For 2.4" Screens   
 Green Color Version for Duplex 2.4" = Green1_Duplex_24in_LHnLHTG_GB_1.X  
 Green Color Version for Simplex 2.4" = Green1_Simplex_24in_LHnLHTG_GB_1.X  
 Blue Color Version for Duplex 2.4" = Blue1_Duplex_24in_LHnLHT_GB_1.X  
