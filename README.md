@@ -3,7 +3,7 @@
 Here you will find a collection of screen layouts I have put together for Nextion Screens.  
 Both Duplex and Simplex Hot Spot layouts are available.  
 In the main github page for this repository you will find a file called "Instructions.md".   
-The "instructions.md" file has instructions on how to do basic text box editing to Nextion HMI files as well as how to get the HMI files compiled and sent to the Nextion screen, (basically all you need to know to get your screen going).  
+The "instructions.md" file has instructions on how to connect Nextion displays, do basic text box editing to HMI files as well as how to get the HMI files compiled  to TFT and sent to the Nextion screen, (basically all you need to know to get your screen going).  
 
 I am testing these layout files with the Nextion 2.4" and 3.2" displays.  
 If anyone would like to provide feedback please contact me at wa6hxg@gmail.com   
