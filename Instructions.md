@@ -21,6 +21,12 @@ Now on the lower right of the application window under where it says "Attribute"
 After correcting the numbers to your frequency hit the enter key on your keyboard for it to be applied to the layout.   Now click the right "RX" frequency diplay "t108" in the middle display preview and it will turn blue.  
 On the lower right do the same as you just did with your "TX" digits to your "RX" digits by changing the "txt" field.   Hit the enter key on your keyboard again for it to be applied.  
 After you have corrected the frequency numbers for the Main MMDVM Page go ahead and click the next page on the top right of the editor window labeled "DStar" and do the same for the two frequency entries on that page (t100 and t101).   Continue this process with the other pages down to Page 5 NXDN, then you are done editing.  
+
+Selecting your specific screen model:
+
+YOUR SCREEN HAS TO BE THE SAME SIZE AS THE LAYOUT YOU ARE USING!!!   
+Click on the "Device ID" button on the toolbar, a new window will pop up, now click the basic or enhanced box depending on your screen model. Next click on the exact screen model then "OK" button non the bottom of the window.
+
 Now hit "Save As" on the top left of the application window and set the file location and save your new HMI file.  
   
 Getting the TFT made so you may upload it to your Nextion display:   
