@@ -20,7 +20,8 @@ Revision History:
 1.7 Updated numerous text boxes, the bottom of letters "Q" and "g" had a few pixels being clipped off.   
 1.8 Changed "Duplex MMDVM Voice Modem" on MMDVM Pages from "Duplex" to "Simplex" for Simplex Layouts.  
 1.9 Edited the background image, dimming down the bright white spots to blue to make them less distracting.  
-2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.  
+PLEASE NOTE: For versions 2.1 and above please use Layout G4KLX in Pi-Star Configuration page for Nextion.   
+2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.   
 2.2 Added single or dual last heard to other modes, ie,. P25, YSF, NXDN, D-Star.  
   
 File explanation...   
