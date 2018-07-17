@@ -19,15 +19,15 @@ Revision History:
 1.6 Fixes some errors on the NXDN page, edited background graphics, and optimized code.  
 1.7 Updated numerous text boxes, the bottom of letters "Q" and "g" had a few pixels being clipped off.   
 1.8 Changed "Duplex MMDVM Voice Modem" on MMDVM Pages from "Duplex" to "Simplex" for Simplex Layouts.  
-1.9 Edited the background image, dimming down the bright white spots to blue to make them less distracting.  
+1.9 Edited the background image, dimming down the bright white spots to blue to make them less distracting.   
+2.0 Changed Text overlays to blend with backgrounds instead of having colored boxes behind, improved look.  
 PLEASE NOTE: For versions 2.1 and above please use Layout G4KLX in Pi-Star Configuration page for Nextion.   
-2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.   
-2.2 Added single or dual last heard to other modes, ie,. P25, YSF, NXDN, D-Star.  
+2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.    
   
 File explanation...   
   
 The HMI Files directory include HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. (instructions   for that process are here on my Github page in the Instructions.md file).  
-The TFT Files directory include TFT files for direct upload to the Nextion screen. (instructions for that process are in the   Instructions.md file). Files with the suffix GB have green signal bars around the antenna icon instead of white.  
+The TFT Files directory include TFT files for direct upload to the Nextion screen. (instructions for that process are in the   Instructions.md file).   
    
 File details:    
    
@@ -39,17 +39,13 @@ Blue Color Version for Simplex 2.4" = Blue1_Simplex_24in_LHnLHTG_GB_X.X
   
 For 3.2" Screens  
 Green Color Version for Duplex 3.2" = Green1_Duplex_32in_LHnLHTG_GB_X.X   
-Green Color Version for Simplex 3.2" = Green1_Simplex_32in_LHnLHTG_GB_X.X   
-Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHTG_X.X  
-Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_X.X   
+Green Color Version for Simplex 3.2" = Green1_Simplex_32in_LHnLHTG_GB_X.X    
 Blue Color Version for Duplex 3.2" = Blue1_Duplex_32in_LHnLHT_GB_X.X   
 Blue Color Version for Simplex 3.2" = Blue1_Simplex_32in_LHnLHTG_GB_X.X   
   
 For 3.5" Screens  
 Green Color Version for Duplex 3.5" = Green1_Duplex_35in_LHnLHT_GB_X.X   
-Green Color Version for Simplex 3.5" = Green1_Simplex_35in_LHnLHT_GB_X.X   
-Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_X.X   
-Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_X.X     
+Green Color Version for Simplex 3.5" = Green1_Simplex_35in_LHnLHT_GB_X.X    
 Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_GB_X.X   
 Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_GB_X.X   
 
