@@ -1,7 +1,7 @@
 # MMDVM-Nextion-Screen-Layouts  
   
-Here you will find a collection of screen layouts I have put together for Nextion Screens.  
-Both Duplex and Simplex Hot Spot layouts are available.  
+Here you will find a collection of screen layouts I have put together for Nextion Screens as well as information on how to acquire, connect, set up and get operating.  
+Layouts for both Duplex and Simplex Hot Spot are available.  
 In the main github page for this repository you will find a file called "Instructions.md".   
 The "instructions.md" file has instructions on how to connect Nextion displays, do basic text box editing to HMI files as well as how to get the HMI files compiled  to TFT and sent to the Nextion screen, (basically all you need to know to get your screen going).  
   
@@ -28,7 +28,7 @@ from MMDVM Pi-Star to be sent to the screen and requests from the screen may be 
   
 File explanation...   
   
-The HMI Files directory include HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. (instructions   for that process are here on my Github page in the Instructions.md file).  
+The HMI Files directory include HMI files for the Nextion Editor, they may be edited and compiled to TFT Files. (instructions   for that process are here on my Github page in the Instructions.md file).  
 The TFT Files directory include TFT files for direct upload to the Nextion screen. (instructions for that process are in the   Instructions.md file).   
    
 File details:    
