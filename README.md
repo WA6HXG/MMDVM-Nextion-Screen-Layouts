@@ -4,12 +4,12 @@ Here you will find a collection of screen layouts I have put together for Nextio
 Both Duplex and Simplex Hot Spot layouts are available.  
 In the main github page for this repository you will find a file called "Instructions.md".   
 The "instructions.md" file has instructions on how to connect Nextion displays, do basic text box editing to HMI files as well as how to get the HMI files compiled  to TFT and sent to the Nextion screen, (basically all you need to know to get your screen going).  
-
-I am testing these layout files with the Nextion 2.4" and 3.2" displays.  
+  
+I am testing these layout files with the Nextion 2.4" and 3.2" displays.   
 If anyone would like to provide feedback please contact me at wa6hxg@gmail.com   
-
+  
 Revision History:   
-
+  
 1.0 (Original)  
 1.1 Fixed Spacing on Antenna Signal Bars.  
 1.2 Added RSSI and BER labels to DStar Page.  
@@ -22,7 +22,9 @@ Revision History:
 1.9 Edited the background image, dimming down the bright white spots to blue to make them less distracting.   
 2.0 Changed Text overlays to blend with backgrounds instead of having colored boxes behind, improved look.  
 PLEASE NOTE: For versions 2.1 and above please use Layout G4KLX in Pi-Star Configuration page for Nextion.   
-2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.    
+2.1 Added dual last heard slots to the DMR pages so two of the last heard calls and talk groups will be displayed.  
+3.1 Interactive layouts based on a modified fork of the "Nextion Driver" by ON7LDS. This enables additional fields  
+from MMDVM Pi-Star to be sent to the screen and requests from the screen may be sent to back the Pi-Star as well.  
   
 File explanation...   
   

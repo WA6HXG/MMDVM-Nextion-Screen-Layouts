@@ -25,7 +25,7 @@ After you have corrected the frequency numbers for the Main MMDVM Page go ahead 
 Selecting your specific screen model:
 
 YOUR SCREEN HAS TO BE THE SAME SIZE AS THE LAYOUT YOU ARE USING!!!   
-Click on the "Device ID" button on the toolbar, a new window will pop up, now click the basic or enhanced box depending on your screen model. Next click on the exact screen model then "OK" button non the bottom of the window.
+Click on the "Device ID" button on the toolbar, a new window will pop up, now click the basic or enhanced box depending that matches your screens model number. Next click on the exact screen model number then "OK" button on the bottom of the window.  
 
 Now hit "Save As" on the top left of the application window and set the file location and save your new HMI file.  
   
