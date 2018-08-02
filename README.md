@@ -53,6 +53,10 @@ Green Color Version for Duplex 3.5" = Green1_Duplex_35in_LHnLHT_GB_X.X
 Green Color Version for Simplex 3.5" = Green1_Simplex_35in_LHnLHT_GB_X.X    
 Blue Color Version for Duplex 3.5" = Blue1_Duplex_35in_LHnLHTG_GB_X.X   
 Blue Color Version for Simplex 3.5" = Blue1_Simplex_35in_LHnLHTG_GB_X.X   
-
-Enjoy!  
-73  
+  
+If you get stuck setting up a Nextion screen feel free to contact me with questions at: wa6hxg@gmail.com
+If you would like to contribute to my work on Nextion MMDVM display layouts my Paypal address is: wa6hxg@gmail.com
+  
+Thanks and 73,  
+Ryan  
+WA6HXG  
