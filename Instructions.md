@@ -1,15 +1,28 @@
 # MMDVM-Nextion-Screen-Layouts
 To edit the HMI File download the Nextion Editor from: https://nextion.itead.cc/resources/download/nextion-editor/  
+  
+Purchasing a Nextion Screen.:
+  
+Sizes that are available include: 2.4", 2.8", 3.2", 3.5", 4.3", 5.0", 7.0", and 9.0".
+Nextion Screens are also available in 2 versions, Basic and Enhanced. The biggest difference between the two is the  
+amount of available flash memory for storing a layout. More details are available here: https://nextion.itead.cc/nextion-shop/    
+My layouts all fit on the "Basic" screens though there are layouts out there that use more memory their 4mb limit.  
+I would recommend the "Enhanced" versions to be prepared for future layouts that may consume more on-board memory.    
+These are the "Enhanced" model numbers for the Nextion screens currently available:  
+NX3224K024_011R for 2.4", NX3224K028_011R for 2.8", NX4024K032_011R for 3.2", NX4832K035_011R for 3.5", NX4827K043_011R for     4.3", NX8048K050_011R,NX8048K070 for the 7".  
+The "Basic" version model numbers available are:  
+NX3224T024_011R for 2.4", NX3224T028_011R for the 2.8", NX4024T032_011R for the 3.2", NX4832T035_011R for the 3.5",     NX4827T043_011R for the 4.3", NX8048T050_011R for the 5" and NX8048T070_011R for the 7".  
+Most layouts you will find are for the 2.8"-5" screens. There are some out there for the others but are more rare.  
+Screens are available on Ebay as well as other outlets and there are after market acrylic sandwich type housings available as well for 2.8"-3.5" screens.  
+Beware of "TJC" versions that are available, if you receive a "TJC" version return it immediately as they are marketed for the Chinese market and are only programmable using a Chinese language editor. Not a large concern ad most Chinese sellers are selling US marketed screens ("NX" prefix).
 
-Connecting your Nextion display to a hot spot hat: 
+Connecting your Nextion display to a hot spot:  
    
 The electrical connections from the Nextion screen to the Hat, whatever type it may be are simple.  
-Looking at the front of the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX.  
-Look for the Nextion wiring section on the Hat (usually labeled).  
-The top wire from the screen goes to 5v.  
-The lower wire on the screen will go to ground.  
-TX on the screen will go to RX, and the RX on the screen will go to the TX on the Hat, if it does not work check that you did   not reverse the two middle wires.   
-You may use headers if you have room or clip connectors off, strip the wire back about 1.5mm tin them and solder them straight to the Hat. If they protrude too long just clip off excess. Whichever you prefer. 
+Looking at the front of the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX. They are also labeled on the back of the Screen circuit board.    
+Look for the Nextion wiring section on your specific modem or Hat (usually labeled).   
+TX on the screen will go to RX, and the RX on the screen will go to the TX on the Hat, if it does not work check that you did   not reverse the two middle wires. Be extra careful and double check when attaching the power leads!    
+You may use headers if you have room onn the modem or clip connectors off, strip the wire back about 1.5mm, tin them and solder them straight to the Hat. If they protrude too long just clip off excess. Some like headers but depending on your installation they may not fit. Whichever you prefer. 
 
 Editing the text boxes to display the frequency you want:  
 
@@ -54,10 +67,16 @@ After that your Nextion display will be completely setup!
   
 If you want the page for a mode to stay on (and be in that mode) longer, set “rf hold “ and “net hold” for that mode to a higher value.  This will cause the Hotspot to hold on that mode longer before going to standby screen or switching modes to another.  
   
-Remember, on the DMR page (and maybe others) the prefix: “N” means the call is from the Network and the prefix “R” is from local RF.  RSSI and BER will show when you transmit to the Hot Spot, it does not come from the Network.  
+Remember, on the DMR page (and maybe others) the prefix: “N” means the call is from the Network and the prefix “R” is from local RF.  RSSI and BER will show when you transmit to the Hot Spot, they will not be displayed when a call comes from the Network.  
   
-The HMI Files directory includes HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. The HMI files may be loaded into the Nextion Editor and adjusted to your liking as described above.  
+The HMI Files directory includes HMI files for the Nextion Editor, they may be edited and Compiled to TFT Files. The HMI files may be loaded into the Nextion Editorrequire assi and adjusted to your liking as described above.  
    
 The TFT Files directory include TFT files for direct upload to the Nextion screen also described above.  
 File versions, differences, and details are outlined in the README.md   
-  
+   
+If you get stuck setting up a Nextion screen feel free to contact me with questions at: wa6hxg@gmail.com    
+If you would like to contribute to my work on Nextion MMDVM display layouts my Paypal address is: wa6hxg@gmail.com  
+
+Thanks and 73,  
+Ryan  
+WA6HXG
