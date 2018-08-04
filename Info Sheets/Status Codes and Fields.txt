@@ -1,0 +1,127 @@
+Status codes that will be sent:
+-------------------------------
+The status code gives more information about what was sent in the 
+changed field.
+
+ 1 : page MMDVM
+ 2 : page D-Star
+ 3 : page DMR
+ 4 : page YSF
+ 5 : page P25 
+ 6 : page NXDN
+ 
+11 : IDLE
+12 : CW
+13 : ERROR text
+14 : ERROR
+15 : LOCKOUT
+16 : IPaddress
+17 : ID/Call (t0 and t4,t5 are sent)
+19 : END
+
+41 : D-Star listening
+42 : type/my1/my2
+45 : your
+46 : reflector
+47 : RSSI
+48 : ber
+
+61 : DMR listening1
+62 : ID1
+63 : TA1
+64 : Call end1
+65 : TG1
+66 : RSSI1
+67 : ber1
+69 : DMR listening2
+70 : ID2
+71 : TA2
+72 : Call end2
+73 : TG2
+74 : RSSI2
+75 : ber2
+76 : GPS1 (t8,t9,t12)
+77 : GPS2 (t10,t11,t13)
+
+81 : YSF listening
+82 : src
+83 : dest
+84 : origin
+85 : RSSI
+86 : ber
+
+101 : P25 listening
+102 : source
+103 : dest
+104 : RSSI
+105 : ber
+
+121 : NXDN listening
+122 : source
+123 : dest
+124 : RSSI
+125 : ber
+
+
+
+Fields (and their numbers) on the pages, used by MMDVMHost
+----------------------------------------------------------
+
+MMDVM
+t0 : owner call & ID / errortext  LOCKOUT
+t1 : status	/ ERROR
+t2 : date & time
+
+screenLayout >1 :
+t3 : ip address
+t4 : owner call
+t5 : owner ID
+
+
+D-Star
+t0 : type my1 my2
+t1 : your
+t2 : reflector
+t3 : rssi
+t4 : ber
+
+
+DMR
+t0 : src1 id / call / TA
+t1 : dst
+t2 : src2 id / call / TA
+t3 : dst
+t4 : rssi1
+t5 : rssi2
+t6 : ber1
+t7 : ber2
+
+screenLayout >2 :
+t8 : GPS1 dec
+t9 : GPS1 DMS
+t10: GPS2 dec
+t11: GPS2 DMS
+t12: GPS1 err
+t13: GPS2 err
+
+
+YSF
+t0 : type,source
+t1 : dst
+t2 : src
+t3 : rssi
+t4 : ber
+
+
+P25
+t0 : type,source
+t1 : dst
+t2 : rssi
+t3 : ber
+
+
+NXDN
+t0 : type,source
+t1 : dst
+t2 : rssi
+t3 : ber
