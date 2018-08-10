@@ -20,7 +20,8 @@ Connecting your Nextion display to a hot spot:
    
 The electrical connections from the Nextion screen to the Hat, whatever type it may be are simple.  
 Looking at the front of the Nextion screen with the connector on the left the lower wire is 5v the upper is Ground and the other two in the middle are TX and RX. They are also labeled on the back of the Screen circuit board.    
-Look for the Nextion wiring section on your specific modem or Hat (usually labeled).   
+Look for the Nextion wiring section on your specific modem or Hat (usually labeled).
+The jumbospot and duplex boards are clearly labeled, on the Zumspot the top edge pin of the GPIO pin section is the 5v and the other pins (-, TX, and RX are on the front corner on the section labeled "serial". The 3.3v pin in the serial section is not enough to power the screen hence the 5vdragged from the 5v pin on the gpio header section. One may cut the trace on the 3.3v pin  in the serial section and add a small wire to the 5v gpio pin.
 TX on the screen will go to RX, and the RX on the screen will go to the TX on the Hat, if it does not work check that you did   not reverse the two middle wires. Be extra careful and double check when attaching the power leads!    
 You may use headers if you have room onn the modem or clip connectors off, strip the wire back about 1.5mm, tin them and solder them straight to the Hat. If they protrude too long just clip off excess. Some like headers but depending on your installation they may not fit. Whichever you prefer. 
 
