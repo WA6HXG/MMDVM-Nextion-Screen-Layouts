@@ -9,6 +9,7 @@ changed field.
  4 : page YSF
  5 : page P25 
  6 : page NXDN
+ 7 : page POCSAG
  
 11 : IDLE
 12 : CW
@@ -125,3 +126,8 @@ t0 : type,source
 t1 : dst
 t2 : rssi
 t3 : ber
+
+
+POCSAG
+t0 : pager RIC
+t1 : pager message
